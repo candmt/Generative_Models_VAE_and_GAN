@@ -2,7 +2,7 @@
 
 ## Deep Learning 2nd coursework for MSc AI at Imperial College London, academic year 2020-2021
 
-The VAE_GAN.ipynb file is divided in two parts
+The VAE_GAN.ipynb file is divided in two parts.
 
 * The first part consists in a variational autoencoder used in the MINST dataset. In adition to the implementation, the following is shown or discussed
     * Reconstruction samples and a few generated samples are shown
@@ -20,3 +20,6 @@ The VAE_GAN.ipynb file is divided in two parts
    The following topics are discussed in the second part:
     * Generator and discriminator's loss curves
     * Mode collapse
+
+
+This repository also contains the final trained models for the VAE, the GAN generator, and the GAN discriminator
